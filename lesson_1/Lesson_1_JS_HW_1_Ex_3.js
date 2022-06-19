@@ -6,7 +6,6 @@ let age_3 = 60
 
 const checkAge = function (age) {
 
-    age_1 = Number(age)
     if (!isNaN(age)) {
 
         if (age < age_2) {
